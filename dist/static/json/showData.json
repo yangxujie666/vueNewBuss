@@ -1,0 +1,33 @@
+{
+  "code": 1,
+  "msg": "展示新增企业情况",
+  "data":{
+      "industryAccounted": [
+          {
+            "name": "第一产业",
+            "value": 20,
+            "addRate":23
+          },
+          {
+            "name": "第二产业",
+            "value": 30,
+            "addRate":-3
+          },
+          {
+            "name": "第三产业",
+            "value": 50,
+            "addRate":13
+          }
+      ],
+      "businessGrowth": {
+        "growthRate": "11.8%",
+        "avtiveStatu": [50]
+      },
+      "enterpriseQuantity":{
+          "addBusinessNum":335.9,
+          "newCapital": 118,
+          "newAddBusiness":29.8
+      }
+
+  }
+}

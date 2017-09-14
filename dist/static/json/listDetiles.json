@@ -1,0 +1,24 @@
+{
+  "code": 1,
+  "msg": "获取数据",
+  "data":[
+    {
+      "id":1,
+      "entName":"昔阳县瑞威建筑装饰有限公司",
+      "industry":"零售业",
+      "area":"重庆市",
+      "legalPerson":"柴金雨",
+      "regAsset":"200万人民币",
+      "regDate":"2017-07-17"
+    },
+    {
+      "id":2,
+      "entName":"昔阳县瑞威建筑装饰有限公司",
+      "industry":"信息传输、软件和信息技术服务业",
+      "area":"重庆市",
+      "legalPerson":"柴金雨",
+      "regAsset":"200万人民币",
+      "regDate":"2017-07-17"
+    }
+  ]
+}

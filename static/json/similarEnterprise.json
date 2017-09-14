@@ -1,0 +1,30 @@
+{
+  "code":1,
+  "msg":"描述信息",
+  "data":[
+    {
+      "natureOfCaseText": "负面",
+      "natureOfCase": 0,
+      "articleSource": "同花顺",
+      "eventDate": "2017-08--4  17:33",
+      "eventConten": "64亿！A股市场稽查执法罚没款半年增长149% 30人被市场禁入",
+      "affiliatedEnterprise": "北京京联清洁能源电力科技有限公司"
+    },
+    {
+      "natureOfCaseText": "中性",
+      "natureOfCase": 1,
+      "articleSource": "同花顺",
+      "eventDate": "2017-08--4  17:33",
+      "eventConten": "64亿！A股市场稽查执法罚没款半年增长149% 30人被市场禁入",
+      "affiliatedEnterprise": "北京京联清洁能源电力科技有限公司"
+    },
+    {
+      "natureOfCaseText": "正面",
+      "natureOfCase": 2,
+      "articleSource": "同花顺",
+      "eventDate": "2017-08--4  17:33",
+      "eventConten": "64亿！A股市场稽查执法罚没款半年增长149% 30人被市场禁入",
+      "affiliatedEnterprise": "北京京联清洁能源电力科技有限公司"
+    }
+  ]
+}

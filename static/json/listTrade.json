@@ -1,0 +1,90 @@
+{
+  "code": 1,
+  "msg": "获取行业",
+  "data":[
+    {
+      "tradeId": "1",
+      "tradeName": "农、木、牧、渔业"
+    },
+    {
+      "tradeId": "2",
+      "tradeName": "采矿业"
+    },
+    {
+      "tradeId": "3",
+      "tradeName": "制造业"
+    },
+    {
+      "tradeId": "4",
+      "tradeName": "电力、燃气及水的生产和供应"
+    },
+    {
+      "tradeId": "5",
+      "tradeName": "建筑业"
+    },
+    {
+      "tradeId": "6",
+      "tradeName": "交通运输、仓储和邮政"
+    },
+    {
+      "tradeId": "7",
+      "tradeName": "信息传输、计算机服务和软件业"
+    },
+    {
+      "tradeId": "8",
+      "tradeName": "批发和零售"
+    },
+    {
+      "tradeId": "9",
+      "tradeName": "住宿和餐饮业"
+    },
+    {
+      "tradeId": "10",
+      "tradeName": "金融业"
+    },
+    {
+      "tradeId": "11",
+      "tradeName": "房地产业"
+    },
+    {
+      "tradeId": "12",
+      "tradeName": "租赁和商务服务"
+    },
+    {
+      "tradeId": "13",
+      "tradeName": "科学研究、技术服务和地质勘查"
+    },
+    {
+      "tradeId": "14",
+      "tradeName": "水利、环境和公共设施管理"
+    },
+    {
+      "tradeId": "15",
+      "tradeName": "居民服务和其他服务"
+    },
+    {
+      "tradeId": "16",
+      "tradeName": "教育"
+    },
+    {
+      "tradeId": "17",
+      "tradeName": "卫生、社会保障和社会福利"
+    },
+    {
+      "tradeId": "18",
+      "tradeName": "文化"
+    },
+    {
+      "tradeId": "19",
+      "tradeName": "体育和娱乐业"
+    },
+    {
+      "tradeId": "20",
+      "tradeName": "公共管理和社会组织"
+    },
+    {
+      "tradeId": "21",
+      "tradeName": "国际组织"
+    }
+  ]
+}

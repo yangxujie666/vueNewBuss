@@ -1,0 +1,2466 @@
+{
+  "code": 1,
+  "msg": "获取地区",
+  "data":[
+    {
+      "entName": "陕西正奥教育科技有限公司",
+      "legalPerson": "柴金雨",
+      "capitalNum": "10万人民币",
+      "entId": 2,
+      "point": [108.946789,34.252617],
+      "entDetiles":
+      {
+        "entName": "陕西正奥教育科技有限公司",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "柴金雨",
+        "capitalNum":  "10万人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "陕西电子科技有限公司",
+      "legalPerson": "柴金雨",
+      "capitalNum": "10万人民币",
+      "entId": 2,
+      "point": [108.936441,34.237339],
+      "entDetiles":
+      {
+        "entName": "陕西电子科技有限公司",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "柴金雨",
+        "capitalNum":  "10万人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "山西正奥教育科技有限公司",
+      "legalPerson": "柴金雨",
+      "capitalNum": "100万人民币",
+      "entId": 2,
+      "point": [112.521873,37.885024],
+      "entDetiles":
+      {
+        "entName": "山西正奥教育科技有限公司",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "柴金雨",
+        "capitalNum":  "101万人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "山西电子科技有限公司",
+      "legalPerson": "柴金雨",
+      "capitalNum": "10万人民币",
+      "entId": 2,
+      "point": [112.595462,37.816641],
+      "entDetiles":
+      {
+        "entName": "山西电子科技有限公司",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "柴金雨",
+        "capitalNum":  "10万人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "河南正奥教育科技有限公司",
+      "legalPerson": "柴金雨",
+      "capitalNum": "100万人民币",
+      "entId": 2,
+      "point": [113.70465,34.736398],
+      "entDetiles":
+      {
+        "entName": "河南正奥教育科技有限公司",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "柴金雨",
+        "capitalNum":  "101万人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "河南电子科技有限公司",
+      "legalPerson": "柴金雨",
+      "capitalNum": "10万人民币",
+      "entId": 2,
+      "point": [113.617263,34.77341],
+      "entDetiles":
+      {
+        "entName": "河南电子科技有限公司",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "柴金雨",
+        "capitalNum":  "10万人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "新蔡天实再生能源有限公司",
+      "legalPerson": "程华",
+      "capitalNum":  "100万人民币",
+      "entId": 2,
+      "point": [101.344357,37.894265],
+      "entDetiles":
+      {
+        "entName": "陕西正奥教育科技有限公司",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "程华",
+        "capitalNum": "100万人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "西双版纳房多多房地产经纪有限公司",
+      "legalPerson": "左永清",
+      "capitalNum": "1000万人民币",
+      "entId": 2,
+      "point": [119.594475,44.341415],
+      "entDetiles":
+      {
+        "entName": "西双版纳房多多房地产经纪有限公司",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "左永清",
+        "capitalNum": "1000万人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "深圳中金大江股权投资基金管理有限公司",
+      "legalPerson": "杭希文",
+      "capitalNum": "1万人民币",
+      "entId": 2,
+      "point": [111.646843,24.538885],
+      "entDetiles":
+      {
+        "entName": "深圳中金大江股权投资基金管理有限公司",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "杭希文",
+        "capitalNum": "1万人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "深圳正奥教育科技有限公司",
+      "legalPerson": "柴金雨",
+      "capitalNum": "100万人民币",
+      "entId": 2,
+      "point": [114.124231,22.573853],
+      "entDetiles":
+      {
+        "entName": "深圳正奥教育科技有限公司",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "柴金雨",
+        "capitalNum":  "101万人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "深圳雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "深圳电子科技有限公司",
+      "legalPerson": "柴金雨",
+      "capitalNum": "10万人民币",
+      "entId": 2,
+      "point": [113.975903,22.604819],
+      "entDetiles":
+      {
+        "entName": "深圳电子科技有限公司",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "柴金雨",
+        "capitalNum":  "10万人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "深圳市新立乘汽车服务有限公司",
+      "legalPerson": "周顺红",
+      "capitalNum": "5.4亿人民币",
+      "entId": 2,
+      "point": [113.950607,22.55997],
+      "entDetiles":
+      {
+        "entName": "深圳市新立乘汽车服务有限公司",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "周顺红",
+        "capitalNum": "5.4亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "深圳电子科技有限公司",
+      "legalPerson": "柴金雨",
+      "capitalNum": "10万人民币",
+      "entId": 2,
+      "point": [114.029945,22.566378],
+      "entDetiles":
+      {
+        "entName": "深圳电子科技有限公司",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "柴金雨",
+        "capitalNum":  "10万人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "深圳市新立乘汽车服务有限公司",
+      "legalPerson": "周顺红",
+      "capitalNum": "5.4亿人民币",
+      "entId": 2,
+      "point": [114.041443,22.558902],
+      "entDetiles":
+      {
+        "entName": "深圳市新立乘汽车服务有限公司",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "周顺红",
+        "capitalNum": "5.4亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [103.110497,33.822238],
+      "entDetiles":
+      {
+        "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [121.385088,31.232739],
+      "entDetiles":
+      {
+        "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [121.395437,31.227798],
+      "entDetiles":
+      {
+        "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [121.391987,31.228786],
+      "entDetiles":
+      {
+        "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [121.518468,31.236691],
+      "entDetiles":
+      {
+        "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [121.50927,31.207045],
+      "entDetiles":
+      {
+        "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [121.486273,31.227798],
+      "entDetiles":
+      {
+        "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [121.382788,31.18431],
+      "entDetiles":
+      {
+        "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [121.347144,31.165525],
+      "entDetiles":
+      {
+        "entName": "上海锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "上海锦邺泰涌企业管理中心",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [121.43798,31.303854],
+      "entDetiles":
+      {
+        "entName": "上海锦邺泰涌企业管理中心",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.139624,39.082731],
+      "entDetiles":
+      {
+        "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.279904,39.072872],
+      "entDetiles":
+      {
+        "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.080983,39.051357],
+      "entDetiles":
+      {
+        "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.283353,39.080043],
+      "entDetiles":
+      {
+        "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.23966,39.102445],
+      "entDetiles":
+      {
+        "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.179868,39.116779],
+      "entDetiles":
+      {
+        "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.054537,39.107821],
+      "entDetiles":
+      {
+        "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.314399,39.12484],
+      "entDetiles":
+      {
+        "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.114328,39.060323],
+      "entDetiles":
+      {
+        "entName": "天津锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "天津锦邺泰涌企业管理中心",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [116.960251,39.073769],
+      "entDetiles":
+      {
+        "entName": "天津锦邺泰涌企业管理中心",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [116.346987,39.894711],
+      "entDetiles":
+      {
+        "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [116.349286,39.876108],
+      "entDetiles":
+      {
+        "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [116.417126,39.911537],
+      "entDetiles":
+      {
+        "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [116.39643,39.892053],
+      "entDetiles":
+      {
+        "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [116.436674,39.890282],
+      "entDetiles":
+      {
+        "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [116.39528,39.96907],
+      "entDetiles":
+      {
+        "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [116.448172,39.940752],
+      "entDetiles":
+      {
+        "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [116.404478,39.946063],
+      "entDetiles":
+      {
+        "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [116.228554,39.929245],
+      "entDetiles":
+      {
+        "entName": "北京锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "北京锦邺泰涌企业管理中心",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [116.507963,39.832682],
+      "entDetiles":
+      {
+        "entName": "北京锦邺泰涌企业管理中心",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [106.394166,38.450686],
+      "entDetiles":
+      {
+        "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [106.148102,38.290455],
+      "entDetiles":
+      {
+        "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [106.064165,38.390981],
+      "entDetiles":
+      {
+        "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [106.177998,38.384645],
+      "entDetiles":
+      {
+        "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [106.452808,38.414507],
+      "entDetiles":
+      {
+        "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [106.311378,38.389171],
+      "entDetiles":
+      {
+        "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [106.02622,38.521182],
+      "entDetiles":
+      {
+        "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [106.181447,38.472385],
+      "entDetiles":
+      {
+        "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [106.203294,38.410888],
+      "entDetiles":
+      {
+        "entName": "银川锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "银川锦邺泰涌企业管理中心",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [106.042318,38.493173],
+      "entDetiles":
+      {
+        "entName": "银川锦邺泰涌企业管理中心",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [103.675296,35.992228],
+      "entDetiles":
+      {
+        "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [104.019096,36.065083],
+      "entDetiles":
+      {
+        "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [103.694843,36.147197],
+      "entDetiles":
+      {
+        "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [103.694843,36.147197],
+      "entDetiles":
+      {
+        "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [104.071988,36.001572],
+      "entDetiles":
+      {
+        "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [103.92366,36.007178],
+      "entDetiles":
+      {
+        "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [103.858119,36.0324],
+      "entDetiles":
+      {
+        "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [103.770732,36.057614],
+      "entDetiles":
+      {
+        "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [103.676446,36.043607],
+      "entDetiles":
+      {
+        "entName": "兰州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "兰州锦邺泰涌企业管理中心",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [103.739687,36.15186],
+      "entDetiles":
+      {
+        "entName": "兰州锦邺泰涌企业管理中心",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "徐州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.132275,34.249675],
+      "entDetiles":
+      {
+        "entName": "徐州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "徐州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.054087,34.045084],
+      "entDetiles":
+      {
+        "entName": "徐州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "徐州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [116.900009,34.083363],
+      "entDetiles":
+      {
+        "entName": "徐州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "徐州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.105829,34.196186],
+      "entDetiles":
+      {
+        "entName": "徐州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "徐州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.09778,34.317443],
+      "entDetiles":
+      {
+        "entName": "徐州兰州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "徐州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.547364,34.169428],
+      "entDetiles":
+      {
+        "entName": "徐州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "徐州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.019592,34.217204],
+      "entDetiles":
+      {
+        "entName": "徐州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "徐州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.465726,34.235351],
+      "entDetiles":
+      {
+        "entName": "徐州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "徐州锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.181718,34.177074],
+      "entDetiles":
+      {
+        "entName": "徐州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "徐州锦邺泰涌企业管理中心",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.264506,34.1178],
+      "entDetiles":
+      {
+        "entName": "徐州锦邺泰涌企业管理中心",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "合肥锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.25086,31.650477],
+      "entDetiles":
+      {
+        "entName": "合肥锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "合肥锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.25086,31.650477],
+      "entDetiles":
+      {
+        "entName": "合肥锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "合肥锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.260059,31.926465],
+      "entDetiles":
+      {
+        "entName": "合肥锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "合肥锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.285355,31.829326],
+      "entDetiles":
+      {
+        "entName": "合肥锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "合肥锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.162323,31.778262],
+      "entDetiles":
+      {
+        "entName": "合肥兰州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "合肥锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.133578,31.850921],
+      "entDetiles":
+      {
+        "entName": "合肥锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "合肥锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.234763,31.819508],
+      "entDetiles":
+      {
+        "entName": "合肥锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "合肥锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.05079,31.883305],
+      "entDetiles":
+      {
+        "entName": "合肥锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "合肥锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.441732,31.768438],
+      "entDetiles":
+      {
+        "entName": "合肥锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "合肥锦邺泰涌企业管理中心",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.074936,31.755667],
+      "entDetiles":
+      {
+        "entName": "合肥锦邺泰涌企业管理中心",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "南京锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [119.013178,31.851232],
+      "entDetiles":
+      {
+        "entName": "南京锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "南京锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [118.66248,32.058582],
+      "entDetiles":
+      {
+        "entName": "南京锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "南京锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [118.755616,31.979227],
+      "entDetiles":
+      {
+        "entName": "南京锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "南京锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [118.744118,32.086976],
+      "entDetiles":
+      {
+        "entName": "南京锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "南京锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [118.744118,32.086976],
+      "entDetiles":
+      {
+        "entName": "南京兰州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "南京锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [118.839554,32.049768],
+      "entDetiles":
+      {
+        "entName": "南京锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "南京锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [118.650981,31.975307],
+      "entDetiles":
+      {
+        "entName": "南京锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "南京锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [118.774013,32.063478],
+      "entDetiles":
+      {
+        "entName": "南京锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+  "entName": "南京锦邺泰涌企业管理中心（有限合伙）",
+  "legalPerson": "罗清识",
+  "capitalNum": "54亿人民币",
+  "entId": 2,
+  "point": [118.586591,32.120254],
+  "entDetiles":
+  {
+    "entName": "南京锦邺泰涌企业管理中心（有限合伙）",
+    "regNumber": "91610113MA6TYPGF2A",
+    "legalPerson": "罗清识",
+    "capitalNum": "54亿人民币",
+    "regDate": "2017-08-03",
+    "regState":"存续",
+    "entType": "有限责任公司(自然人投资或控股)",
+    "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+    "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+  }
+
+},
+    {
+      "entName": "南京锦邺泰涌企业管理中心",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [118.586591,32.120254],
+      "entDetiles":
+            {
+              "entName": "南京锦邺泰涌企业管理中心",
+              "regNumber": "91610113MA6TYPGF2A",
+              "legalPerson": "罗清识",
+              "capitalNum": "54亿人民币",
+              "regDate": "2017-08-03",
+              "regState":"存续",
+              "entType": "有限责任公司(自然人投资或控股)",
+              "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+              "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+            }
+
+    },
+    {
+      "entName": "济南锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [116.894351,36.597502],
+      "entDetiles":
+      {
+        "entName": "济南锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "济南锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.678536,36.469443],
+      "entDetiles":
+      {
+        "entName": "济南锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "济南锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [116.777068,36.601211],
+      "entDetiles":
+      {
+        "entName": "济南锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "济南锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [116.827661,36.559478],
+      "entDetiles":
+      {
+        "entName": "济南锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "济南锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.03923,36.670252],
+      "entDetiles":
+      {
+        "entName": "济南兰州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "济南锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [116.850658,36.604456],
+      "entDetiles":
+      {
+        "entName": "济南锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "济南锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.030031,36.723959],
+      "entDetiles":
+      {
+        "entName": "济南锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "济南锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [116.936895,36.680441],
+      "entDetiles":
+      {
+        "entName": "济南锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "济南锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [117.015083,36.6684],
+      "entDetiles":
+      {
+        "entName": "济南锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "沈阳锦邺泰涌企业管理中心",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [123.549874,41.60635],
+      "entDetiles":
+      {
+        "entName": "沈阳锦邺泰涌企业管理中心",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "沈阳锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [123.426843,41.664147],
+      "entDetiles":
+      {
+        "entName": "沈阳锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "沈阳锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [123.391198,41.663716],
+      "entDetiles":
+      {
+        "entName": "沈阳锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "沈阳锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [123.455588,41.820884],
+      "entDetiles":
+      {
+        "entName": "沈阳锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "沈阳锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [123.278514,41.733951],
+      "entDetiles":
+      {
+        "entName": "沈阳锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "沈阳锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [123.30841,41.757202],
+      "entDetiles":
+      {
+        "entName": "沈阳兰州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "沈阳锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [123.536076,41.726199],
+      "entDetiles":
+      {
+        "entName": "沈阳锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "沈阳锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [123.16928,41.799377],
+      "entDetiles":
+      {
+        "entName": "沈阳锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "沈阳锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [123.279664,41.742564],
+      "entDetiles":
+      {
+        "entName": "沈阳锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "沈阳锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [123.486634,41.788191],
+      "entDetiles":
+      {
+        "entName": "沈阳锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "沈阳锦邺泰涌企业管理中心",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [123.448689,41.825185],
+      "entDetiles":
+      {
+        "entName": "沈阳锦邺泰涌企业管理中心",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "呼和浩特锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [111.582244,40.819802],
+      "entDetiles":
+      {
+        "entName": "呼和浩特锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "呼和浩特锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [111.61214,40.82679],
+      "entDetiles":
+      {
+        "entName": "呼和浩特锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "呼和浩特雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "呼和浩特锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [111.724249,40.86172],
+      "entDetiles":
+      {
+        "entName": "呼和浩特锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "呼和浩特锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [111.657558,40.863029],
+      "entDetiles":
+      {
+        "entName": "呼和浩特兰州锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "呼和浩特锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [111.519004,40.759062],
+      "entDetiles":
+      {
+        "entName": "呼和浩特锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "呼和浩特锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [111.689754,40.736763],
+      "entDetiles":
+      {
+        "entName": "呼和浩特锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "呼和浩特锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [111.722524,40.781355],
+      "entDetiles":
+      {
+        "entName": "呼和浩特锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "呼和浩特锦邺泰涌企业管理中心（有限合伙）",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [111.636286,40.80495],
+      "entDetiles":
+      {
+        "entName": "呼和浩特锦邺泰涌企业管理中心（有限合伙）",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    },
+    {
+      "entName": "呼和浩特锦邺泰涌企业管理中心",
+      "legalPerson": "罗清识",
+      "capitalNum": "54亿人民币",
+      "entId": 2,
+      "point": [111.699527,40.765183],
+      "entDetiles":
+      {
+        "entName": "呼和浩特锦邺泰涌企业管理中心",
+        "regNumber": "91610113MA6TYPGF2A",
+        "legalPerson": "罗清识",
+        "capitalNum": "54亿人民币",
+        "regDate": "2017-08-03",
+        "regState":"存续",
+        "entType": "有限责任公司(自然人投资或控股)",
+        "businessScope": "一般经营项目：商务信息咨询（不含金融、证券、保险、期货等限制审批项目）、企业管理咨询；会务会展服、翻译服务；房屋租赁（仅限自有房屋...",
+        "address": "陕西省西安市雁塔区电子二路中段国晟大厦4楼4024号房"
+      }
+
+    }
+]
+}
